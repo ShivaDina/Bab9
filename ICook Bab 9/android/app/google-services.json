@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91310729956",
+    "project_id": "icookapp-689f2",
+    "storage_bucket": "icookapp-689f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91310729956:android:8a3096cbe02f51c4bb9af1",
+        "android_client_info": {
+          "package_name": "com.icook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCinVPzo_NiYoUaLwejvPwJ3oKzgsZ4zBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
